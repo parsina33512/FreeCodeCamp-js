@@ -1,0 +1,14 @@
+console.log("Hello! I'm your coding fun fact guide!");
+const botName="loui";
+const botLocation="withinYourMind";
+const favoriteLanguage="C++";
+console.log("My name is "+botName+" and I live on "+botLocation+".");
+console.log("My favorite programming language is "+favoriteLanguage+".");
+let codingFact;
+codingFact=favoriteLanguage+"is my oldest langauge by far";
+console.log(codingFact);
+codingFact=favoriteLanguage+"was cool till i saw python's usage";
+console.log(codingFact);
+codingFact="where i come from all logic and it's states come from "+favoriteLanguage;
+console.log(codingFact);
+console.log("It was fun sharing these facts with you. Goodbye! - "+botName+" from "+botLocation+".");
